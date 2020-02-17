@@ -102,6 +102,10 @@ nav {
 {
     height:200px;
 }
+#howToPlayDiv p
+{
+    text-align: right;
+}
 #ourLogo{
     background-image: url(../imagesHTML/logo5.png);
     background-size: 100%;
